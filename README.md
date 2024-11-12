@@ -1,10 +1,4 @@
-# Fake Online Review Detection using Machine Learning
-
-**Authors:**  
-- Kranthi Katamouni - 02105094  
-- Rohit Buccapatnam - 02106589  
-- Haneesh Kapa - 02107136  
-- Deva Sai Kumar Bheesetti - 02118528  
+# Fake Online Review Detection using Machine Learning 
 
 ## Introduction and Motivation
 The objective of this project is to detect fake online reviews using machine learning techniques. Fake reviews are artificially created to mislead customers or inflate product ratings, posing a risk to both businesses and consumers. Our goal is to build a model that accurately identifies fraudulent reviews, enhancing trust in online review systems.
